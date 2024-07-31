@@ -1,13 +1,11 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: maybemia's self-promotion
 aliases:
-  - about-us
-  - about-hugo
+  - about-maybemia
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2024-07-30'
 menu:
     main: 
         weight: 2
@@ -15,20 +13,13 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+热爱网络安全（密码学、web2、web3）的WHU本科学生，具有良好的数学和编程基础。熟练密码学以及常见的web2、web3漏洞挖掘及渗透，并对代码审计充满热情。
 
-Hugo makes use of a variety of open source projects including:
+CTFer，积极参加重大网络安全竞赛及攻防演练并取得优异成绩：
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- 2023: “龙芯杯”信创攻防赛冠军
+- 2023: edu hvv攻击队前十名
+- 2023: 全国大学生信息安全竞赛创新实践赛决赛二等奖
+- 2023: 强网杯决赛三等奖
+- 2024: 全国大学生信息安全竞赛创新实践赛决赛一等奖
+- 2024: “长城杯”铁人三项决赛冠军
